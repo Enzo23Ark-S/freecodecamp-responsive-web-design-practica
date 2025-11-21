@@ -1,8 +1,35 @@
+            Preguntas
 ¿Cómo debes escalar o dimensionar tus imágenes?
-Sus imágenes deben tener la misma escala que el tamaño renderizado en la página.
+    Sus imágenes deben tener la misma escala que el tamaño renderizado en la página.
 
 ¿Cuál de los siguientes NO es un tipo de archivo de imagen válido?
-TS
+    TS
 
 ¿Qué formato de archivo nunca debes comprimir?
-jpg
+    jpg
+
+Cuáles son los diferentes tipos de licencias de imagen y cómo funcionan
+            Preguntas
+
+¿Cuál es la licencia predeterminada para las imágenes?
+    Todos los derechos reservados
+
+¿Qué liberaciones de licencias funcionan para el dominio público?
+    Creative Commons 0
+
+¿Cómo puedes encontrar imágenes que puedes utilizar?
+    Utilice sitios web como Pixabay o Unsplash.
+
+
+Qué son los SVG y cuándo debes utilizarlos
+
+            Preguntas
+
+¿Qué es una imagen rasterizada?
+    Una imagen que almacena datos de color para cada píxel.
+
+¿Qué es una imagen vectorial?
+    Una imagen que almacena caminos, líneas, puntos y curvas.
+
+¿Cómo almacena un SVG los datos?
+    Como XML.
