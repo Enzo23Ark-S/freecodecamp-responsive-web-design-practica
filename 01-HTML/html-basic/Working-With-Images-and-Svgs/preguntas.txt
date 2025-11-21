@@ -1,0 +1,8 @@
+¿Cómo debes escalar o dimensionar tus imágenes?
+Sus imágenes deben tener la misma escala que el tamaño renderizado en la página.
+
+¿Cuál de los siguientes NO es un tipo de archivo de imagen válido?
+TS
+
+¿Qué formato de archivo nunca debes comprimir?
+jpg
