@@ -1,0 +1,82 @@
+What Are the Different Target Attribute Types, and How Do They Work?
+Resumen: Entender sobre el elemento Target y sus nuevos valores mencionados
+
+                    Preguntas
+
+cuántos actuales target ¿Hay valores para elegir?
+    4   
+
+¿Dónde se vinculará con target="_blank" ¿abierto?
+    ¿Cuál es el comportamiento predeterminado cuando no configuras un target?
+
+¿Cuál es el comportamiento predeterminado cuando no configuras un target?
+    ¿Cuál es el comportamiento predeterminado cuando no configuras un target?
+
+
+
+Segunda Sección
+
+What Is the Difference Between Absolute and Relative Paths?
+
+Resumen: Una ruta es una cadena que especifica la ubicación de un archivo o directorio en un sistema de archivos. Una ruta absoluta también incluye el protocolo, que podría ser http, https, y file y el nombre de dominio si el recurso está en la web. 
+
+            Preguntas
+
+¿Cuáles son los dos tipos de caminos?
+
+Caminos absolutos y relativos.
+
+¿Cómo vincularse a un recurso disponible sólo en Internet?
+
+    Camino absoluto.
+
+¿Qué protocolo se utiliza para una ruta absoluta en una máquina local?
+
+file://
+
+
+Sección 3
+What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+
+Resumen: Las rutas de archivos hay tres, Primero está la barra, que puede ser una barra invertida (\) o barra diagonal (/) dependiendo de su sistema operativo. El segundo es el punto único (.). Y por último tenemos el doble punto (..).
+
+
+            Preguntas
+
+¿Qué opción es un camino absoluto?
+
+    /public/styles.css
+
+¿Qué opción es una ruta relativa al directorio actual?
+
+    ./script.js
+
+¿Qué opción es una ruta relativa al directorio principal?
+
+    ../src/nav.html
+
+
+
+Sección 4
+What Are the Different Link States, and Why Are They Important?
+
+Resumen: Nuevos valores para saber si un enlace ya haya sito visitado
+El hover es un estado que se aplica cuando un usuario pasa el cursor sobre un enlace. Este estado es útil para brindar atención adicional a un enlace, para garantizar que un usuario realmente tenga la intención de hacer clic en él.
+focus. Este estado se aplica cuando nos centramos en un enlace.
+active. Este estado se aplica a los enlaces que están siendo activados por el usuario.
+
+                    Preguntas
+
+¿Cuál es el estado predeterminado de un enlace?
+
+    :link
+
+
+¿Qué estado se aplica cuando un usuario hace clic en el enlace?
+
+    :active
+
+
+¿En qué orden debes diseñar tus enlaces?
+
+    link, visited, hover, active.
