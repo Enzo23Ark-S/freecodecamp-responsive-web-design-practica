@@ -1,0 +1,26 @@
+<!-- What Are Replaced Elements, and What Are Some Examples? -->
+
+<!-- Resumen: Un elemento reemplazado es un elemento cuyo contenido está determinado por un recurso externo y no por el propio CSS. CSS, o hojas de estilo en cascada, se utiliza para agregar estilos a una página web. Ejemplos comunes de elementos reemplazados incluyen los elementos de imagen, iframe y video. -->
+
+                    Preguntas
+
+¿Qué puedes diseñar en un elemento reemplazado?
+    El diseño o posicionamiento.
+
+¿Con qué se reemplaza un elemento reemplazado?
+    Un objeto externo.
+
+¿Cuál de estos es un elemento reemplazado?
+    Iframe
+
+<!-- How Do You Embed Videos onto Your Page Using the iframe Element? -->
+        Preguntas  
+
+¿Qué significa iframe?
+    Marco en línea.
+
+¿qué atributo del iframe ¿El elemento especifica la ubicación de lo que desea incrustar?
+    src
+
+¿qué atributo del iframe elemento que utilizas en lugar de src ¿si quieres incrustar HTML directo?
+    srcdoc
