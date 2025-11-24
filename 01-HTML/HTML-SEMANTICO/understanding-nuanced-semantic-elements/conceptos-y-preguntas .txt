@@ -1,0 +1,56 @@
+When Should You Use the Emphasis Element Over the Idiomatic Text Element?
+Leyendo conceptos...
+                    
+                    Preguntas
+
+¿Qué elemento HTML se utiliza para diferenciar el texto del contenido que lo rodea sin transmitir una importancia específica?
+    i
+
+
+¿cuándo deberías utilizar CSS en lugar del i o em ¿elementos?
+
+Cuando desee mostrar texto en cursiva únicamente con fines de presentación.
+
+
+¿Cuál es la principal diferencia entre i y em?
+    i indica que el texto difiere del contenido circundante, mientras que em enfatiza texto importante.
+
+
+
+
+Sección 2
+When Should You Use the Strong Element Over the Bring Attention To Element?
+Leyendo conceptos...
+
+
+                        Preguntas
+
+¿Qué elemento HTML se utiliza para llamar la atención sobre una parte específica del texto sin transmitir una importancia específica?
+    B
+
+¿Qué elemento HTML se utiliza para indicar texto que es especialmente importante o urgente?
+    Strong
+
+¿Cuál es la principal diferencia entre b y strong?
+    b es para énfasis visual, mientras strong es para enfatizar la importancia.
+
+
+
+
+Sección 3
+
+What Are Description Lists, and When Should You Use Them?
+Leyendo conceptos...
+
+                        Preguntas
+
+¿Qué etiqueta HTML se utiliza para definir una lista de descripción completa?
+    dl
+
+
+¿Qué etiqueta HTML se utiliza para representar un término en una lista de descripción?
+    dt
+
+
+¿Qué etiqueta HTML se utiliza para definir o proporcionar más detalles sobre un término en una lista de descripción?
+    dd
