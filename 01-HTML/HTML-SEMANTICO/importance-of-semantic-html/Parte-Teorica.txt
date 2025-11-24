@@ -1,0 +1,62 @@
+                Why Should You Care About Semantic HTML?
+Leyendo conceptos sobre html semantico.
+            
+            Preguntas
+
+¿A qué se refiere la semántica?
+    El significado y la estructura de las palabras/frases en un idioma.
+
+¿Qué elemento no tiene significado semántico?
+    div
+
+¿Por qué debería importarte el HTML semántico?
+
+    Mejora el SEO.
+
+    Mejora la accesibilidad.
+
+    Mejora la experiencia del desarrollador.
+
+
+Sección 2
+Why is it Important to Have Good Structural Hierarchy?
+Leyendo conceptos...
+
+                    Preguntas
+
+¿Por qué es importante la jerarquía estructural?
+    Accesibilidad
+    SEO
+    Entonces los navegadores saben a qué nos referimos
+
+
+Qué elemento de encabezado debe preceder a un h3 ¿elemento?
+    h2
+
+¿Cómo debes crear texto más grande en tu página?
+
+    Utilice el elemento estructural correcto y dale estilo con CSS.
+
+
+
+
+Sección 3
+What Is the Difference Between Presentational and Semantic HTML?
+Leyendo conceptos...
+
+                                Preguntas
+
+¿Cuál de las siguientes opciones describe mejor la diferencia entre HTML presentacional y semántico?
+
+
+    El HTML semántico se centra en la estructura del contenido, mientras que el HTML presentacional se centra en la apariencia.
+
+
+
+¿Cuál de los siguientes es un ejemplo de HTML de presentación?
+
+    Usando el center elemento para centrar el contenido.
+
+
+¿Cuál de los siguientes es un ejemplo de HTML semántico?
+    Usando el nav elemento para representar una sección de navegación
