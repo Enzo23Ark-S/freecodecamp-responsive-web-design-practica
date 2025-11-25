@@ -1,0 +1,67 @@
+How Do Forms, Labels, and Inputs Work in HTML?
+--Leer conceptos y responder preguntas
+
+                    preguntas
+¿Cuál es el papel del for atributo dentro del label ¿elemento?
+    Se utiliza para asociar explícitamente una etiqueta con una entrada.
+
+
+Cuál de los siguientes es un valor correcto para el type ¿atributo utilizado dentro de las entradas?
+    text
+
+¿Cuál es el papel del placeholder atributo dentro del input ¿elemento?
+    Se utiliza para proporcionar una pista o texto de ejemplo dentro de un campo de entrada.
+
+
+
+
+    Sección 2
+What Are the Different Types of Buttons, and When Should You Use Them?
+
+--Leer conceptos y responder preguntas
+
+                    preguntas
+
+Cuál de los siguientes NO es un valor válido para el type ¿atributo dentro de los botones?
+    src
+
+¿Cuál es el papel de type="reset" dentro del button ¿elemento?
+    Restablece el formulario.
+
+¿Cuál es otro elemento que puedes utilizar para representar un botón?
+    input
+
+
+
+    Sección 3
+What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?
+--Leer conceptos y responder preguntas
+
+                preguntas
+    
+¿Cuál es el propósito del minlength y maxlength ¿atributos dentro de las entradas?
+    Se utilizan para establecer la longitud mínima y máxima en caracteres para la entrada.
+
+¿Qué atributo se utiliza para garantizar que un campo de entrada esté marcado como requerido?
+    required  
+
+¿Qué sucede si intentas enviar un valor sin un @ señal para el email ¿entrada?
+    El navegador mostrará un mensaje de alerta indicando que falta la entrada @ signo.
+
+
+    Sección 4
+What Are the Different Form States, and Why Are They Important?
+
+--Leer conceptos y responder preguntas
+
+                preguntas
+
+¿Qué atributo se utiliza para deshabilitar una entrada?
+    disabled
+
+
+¿Qué atributo se utiliza para marcar una entrada como de solo lectura?
+    readonly
+
+¿Cuándo ocurre el estado de enfoque?
+    Cuando el usuario hace clic en una entrada o la selecciona usando la tecla de pestaña para enfocarla.
