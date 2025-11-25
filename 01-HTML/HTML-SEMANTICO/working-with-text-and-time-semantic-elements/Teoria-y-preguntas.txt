@@ -1,0 +1,79 @@
+How Do Block and Inline Quotes Work in HTML?
+--Lectura de conceptos
+
+                                Preguntas
+
+¿Qué elemento HTML se utiliza para mostrar citas extendidas de otras fuentes?
+    blockquote  
+
+
+¿Cuál es el propósito del cite ¿elemento en HTML?
+    Marcar el título de una obra creativa referenciada.
+
+¿Qué atributo HTML se utiliza para especificar la fuente de una cita en un bloque o elemento de cita en línea?
+    Cite
+
+
+
+
+
+    Sección 2
+How Do You Display Abbreviations in HTML?
+--Lectura de conceptos(me entero que hay etiquetas para abreviaciones abbr>HTML</abbr>)  (<p><abbr title="HyperText Markup Language">HTML</abbr>)
+
+
+                            Preguntas
+¿Qué elemento HTML se utiliza para indicar una abreviatura o acrónimo?
+    aabr
+
+
+¿Cuál es el propósito principal del abbr ¿elemento?
+    Indicar una abreviatura o acrónimo y proporcionar información adicional.
+
+
+¿Qué atributo se puede utilizar dentro del abbr ¿elemento para proporcionar la forma completa de un acrónimo o abreviatura?
+    title
+
+
+
+
+
+
+    Sección 3
+Leyendo conceptos
+How Do You Display Addresses in HTML?
+
+
+                        Preguntas
+
+¿Cuál es el propósito del address ¿elemento?
+
+    Se utiliza para representar información d  e contacto de una sección de una página web.
+
+¿qué es el mailto ¿enlace utilizado para?
+    Se utiliza para permitir a los usuarios abrir un nuevo correo electrónico dentro de su cliente de correo electrónico preferido.
+
+
+¿Cuál es una desventaja de usar mailto ¿enlaces?
+
+    Estos enlaces son un objetivo para que los spammers envíen correos electrónicos a los usuarios.
+
+
+
+
+
+    Sección 4
+How Do You Display Times and Dates in HTML?
+--Leer conceptos
+
+
+                Preguntas
+¿qué hace el datetime atributo en el time ¿elemento ayuda con?
+    Traduce fechas y horas a un formato legible por máquina.
+
+¿Cuál es el formato correcto para el datetime ¿valor del atributo según ISO 8601?
+    YYYY-MM-DDTHH:MM:SS
+
+¿Qué representa la 'T' mayúscula en el valor de fecha y hora ISO 8601?
+    El separador entre fecha y hora.
+
