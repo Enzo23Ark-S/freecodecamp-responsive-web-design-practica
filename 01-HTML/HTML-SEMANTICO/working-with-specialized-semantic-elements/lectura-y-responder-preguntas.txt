@@ -1,0 +1,48 @@
+How Do You Display Mathematical Equations and Chemical Formulas in HTML?
+--Leer conceptos y responder preguntas
+
+
+                    preguntas
+¿Cuál es el uso principal del elemento superíndice en HTML?
+    Mostrar texto como superíndice encima de la línea normal de texto.
+
+¿Cuál de los siguientes es un ejemplo de cómo utilizar correctamente el elemento superíndice?
+    <p>2<sup>2</sup> (2 squared) is 4.</p>
+
+¿Qué se debe utilizar en lugar del elemento superíndice si desea darle estilo al texto con una línea base elevada por razones tipográficas?
+    CSS
+
+
+
+
+    Sección 2
+How Do You Represent Computer Code in HTML?
+--Leer conceptos y responder preguntas
+
+
+                    preguntas
+¿qué es el code ¿elemento utilizado para?
+    Se utiliza para representar fragmentos cortos de código dentro del texto.
+
+¿Qué es el texto preformateado (pre) elemento utilizado para?
+    Se utiliza para representar texto preformateado.
+
+¿Cuál es el estilo predeterminado para el code ¿elemento?
+    Fuente monoespaciada.
+
+
+
+    Sección 3
+What Are the U, S, and Ruby Elements Used For, and How Do They Work?
+--Leer conceptos y responder preguntas
+
+
+                    preguntas
+¿qué es el u ¿elemento utilizado para?
+    Se utiliza para representar texto en línea al que se le aplican anotaciones no textuales.
+
+¿qué es el s ¿elemento utilizado para?
+    Se utiliza para representar cuándo el texto ya no es preciso o relevante.
+
+¿qué es el ruby ¿elemento normalmente utilizado para?
+    Se utiliza para mostrar la pronunciación de caracteres del este de Asia.
