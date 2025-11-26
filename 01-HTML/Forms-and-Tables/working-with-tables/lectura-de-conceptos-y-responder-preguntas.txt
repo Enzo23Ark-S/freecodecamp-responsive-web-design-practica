@@ -1,0 +1,13 @@
+What Are HTML Tables Used For, and What Should They Not Be Used For?
+--Leer conceptos y responder preguntas
+
+                    preguntas
+
+En una tabla HTML, qué elementos están contenidos dentro de una tr ¿elemento?
+    td y th.
+
+¿Cuáles de las siguientes son las secciones principales de una tabla HTML?
+    thead, tbody, y tfoot.
+
+¿Cuál es el principal uso recomendado de las tablas HTML hoy en día?
+    Visualización de datos tabulares.
