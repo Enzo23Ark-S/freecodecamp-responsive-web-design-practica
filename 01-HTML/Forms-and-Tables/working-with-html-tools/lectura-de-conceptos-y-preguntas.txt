@@ -1,0 +1,37 @@
+What Is an HTML Validator, and How Can It Help You Debug Your Code?
+--Leer conceptos y responder preguntas
+
+                    preguntas
+
+
+¿Por qué el navegador representa las etiquetas correctamente incluso cuando hay un error como olvidar cerrar una etiqueta?
+    El algoritmo de análisis del navegador detecta los errores e intenta representar las etiquetas según lo previsto.
+
+
+¿Qué es un validador HTML?
+    Una herramienta que comprueba la validez de HTML.
+
+¿Cuál de estos es un ejemplo de un validador HTML?
+    Validador HTML de W3.org
+
+
+
+
+
+
+    Sección 2
+How to Use the DOM Inspector and DevTools to Debug and Build Your Projects
+--Leer conceptos y responder preguntas
+
+                    preguntas
+                
+¿Cómo se llama el proceso de encontrar y corregir errores en su código?
+    Depuración
+
+¿Cuál es la estructura en forma de árbol que representa los elementos de una página llamada?
+    DOM
+
+¿Cuál es el papel de la pestaña "elementos" en las herramientas para desarrolladores?
+    Te muestra la estructura HTML de la página en la que te encuentras.
+
+
