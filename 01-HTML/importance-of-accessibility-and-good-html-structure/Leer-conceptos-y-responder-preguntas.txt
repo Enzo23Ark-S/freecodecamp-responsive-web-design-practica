@@ -1,0 +1,136 @@
+    What Is Accessibility?
+--Lectura de conceptos
+
+                                Preguntas
+¿Cuál es el objetivo principal de la accesibilidad web?
+    Para garantizar que todos puedan utilizar los sitios web.
+
+¿Qué son las Pautas de Accesibilidad al Contenido Web (WCAG)?
+    Un conjunto de pautas para hacer que los sitios web sean accesibles para todos.
+
+¿Cuál de los siguientes NO es un principio fundamental de las Pautas de Accesibilidad al Contenido Web (WCAG)?
+    Compatible
+
+    Sección 2
+    What Are Screen Readers, and Who Uses Them?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál de los siguientes es el lector de pantalla integrado en dispositivos macOS e iOS?
+    Voz en off
+
+¿Para cuáles de los siguientes no están diseñados los lectores de pantalla?
+    Los sordos
+
+¿Cuál de estas no es una característica de los lectores de pantalla?
+De voz a texto
+    De voz a texto
+
+
+
+    Sección 3
+What Are Large Text or Braille Keyboards, and Who Uses Them?
+Leyendo conceptos
+
+
+                            Preguntas
+
+¿Cuál es uno de los beneficios de utilizar teclados de texto grandes?
+    Legibilidad mejorada de las claves.
+
+¿Quién se beneficia principalmente del uso de teclados de texto grandes y braille?
+    Personas con discapacidad visual.
+
+¿Cómo identifican las personas letras, números y símbolos en los teclados braille?
+    Al sentir patrones de puntos elevados con los dedos.
+
+
+    Sección 4
+What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?
+Leyendo conceptos
+
+
+                            Preguntas
+¿Qué tipo de dispositivos son el trackball, el joystick y el panel táctil?
+    Dispositivos señaladores
+
+¿Qué dispositivo admite gestos multitáctiles como pellizcar para hacer zoom, desplazamiento con dos dedos, tocar para hacer clic y deslizar tres dedos?
+    Panel táctil
+
+¿Qué dispositivo señalador está diseñado principalmente para juegos y aplicaciones industriales específicas?
+    Joystick
+
+
+
+   Sección 5
+What Are Screen Magnifiers Used For?
+    Leyendo conceptos
+
+
+                        Preguntas
+    
+¿Cómo funcionan la mayoría de las lupas de pantalla?
+    Ampliando los textos, gráficos y otros elementos en la pantalla de una computadora o dispositivo móvil.
+
+¿Cuál de estas debería hacer un desarrollador para que sus productos digitales sean compatibles con las lupas de pantalla?
+    Haga que sus páginas respondan a diferentes tamaños de pantalla.
+
+¿Cuál de las siguientes es una lupa de pantalla de terceros?
+    Texto de zoom
+
+
+
+
+   Sección 6
+What Is Voice Recognition Software Used For?
+    Leyendo conceptos
+
+                    Preguntas
+
+¿Cuáles son los principales dispositivos de entrada que reemplaza el software de reconocimiento de voz?
+    Teclados y ratones.
+
+¿Cuál de los siguientes sería el que tendría menos probabilidades de beneficiarse del software de reconocimiento de voz?
+    Personas con movimiento bajo de las piernas.
+
+¿Cuál de los siguientes no es un software de reconocimiento de voz?
+    Audacity
+
+
+
+
+
+   Sección 7
+What Are Some Common Accessibility Auditing Tools to Use?
+    Leyendo conceptos
+
+                    Preguntas
+                
+¿Cuál de estas describe mejor una herramienta de auditoría de accesibilidad?
+    Evalúa qué tan accesible es su contenido digital.
+
+¿Cuál de estas describe cómo puede utilizar el Comprobador de accesibilidad de IBM Equal Access?
+    Se puede utilizar como extensión de Chrome, complemento de Firefox o paquete NPM.
+
+¿Cuál de estas es una limitación del uso de la versión web de la herramienta en Google Lighthouse?
+    No puede probar sitios web locales.
+
+
+   Sección 8
+How Does Proper Heading Level Structure Affect Accessibility?
+    Leyendo conceptos
+
+                    Preguntas
+        
+¿Cómo ayuda una estructura de encabezado adecuada a quienes utilizan lectores de pantalla?
+    Permite a los lectores de pantalla navegar y saltar a diferentes secciones fácilmente.
+
+¿Por qué es importante utilizar correctamente los encabezados para los usuarios que dependen de los teclados?
+    Permite a los usuarios saltar entre secciones sin necesidad de pasar por cada enlace.
+
+¿Cuál de estas es una de las mejores prácticas para utilizar encabezados en una página web?
+    Utilizando textos claros y descriptivos que resuman el siguiente contenido.
+
+
+
