@@ -1,0 +1,35 @@
+    accessible-tables-forms
+--Lectura de conceptos
+
+                                Preguntas
+
+¿Qué elemento HTML se utiliza para especificar el título de una tabla?
+    caption
+
+¿Cuál es el propósito del scope atributo en una celda de encabezado de tabla (th)?
+    Para indicar si el encabezado se aplica a una fila o columna.
+
+¿Cuál de las siguientes es una mejor práctica para crear tablas accesibles?
+    Uso de estructuras de tabla simples con encabezados de filas y columnas.
+
+
+
+    Sección 2
+    Why Is It Important for Inputs to Have an Associated Label?
+Leyendo conceptos
+
+
+                                Preguntas
+
+¿Por qué es importante agregar etiquetas a los elementos de entrada para la accesibilidad?
+    Ayudan a los lectores de pantalla a describir el propósito de los campos de entrada.
+
+¿Cuál es la forma correcta de asociar programáticamente una etiqueta con una entrada en HTML?
+    Establezca las etiquetas for atributo para que coincida con la entrada id.
+
+Además de la accesibilidad, ¿cuál es otro beneficio de asociar etiquetas con entradas?
+    Puede ayudar a los motores de búsqueda a comprender mejor el contenido de la página.
+
+
+
+
