@@ -1,0 +1,94 @@
+What Is the Purpose of WAI-ARIA, and How Does It Work?
+--Lectura de conceptos
+
+                                Preguntas
+¿Cuál es el propósito principal de los atributos WAI-ARIA en HTML?
+    Proporcionar información semántica adicional para la accesibilidad.
+
+¿Cómo funciona WAI-ARIA para mejorar la accesibilidad web?
+    Introduciendo atributos que proporcionan información semántica adicional.
+
+¿Qué significa WAI-ARIA?
+    Iniciativa de accesibilidad web: aplicaciones de Internet enriquecidas y accesibles
+
+
+
+
+
+    Sección 2
+What Are ARIA Roles?
+Leyendo conceptos
+
+
+                    Preguntas
+
+¿Cuál es el propósito principal de los roles ARIA?
+    Proporcionar información semántica sobre el propósito de los elementos.
+
+¿Qué categoría de roles ARIA se utiliza para definir el propósito y el comportamiento de las subventanas, como los diálogos modales emergentes?
+    Roles de ventana.
+
+¿Qué categoría de roles ARIA se utiliza para indicar contenido dinámico que debe anunciarse a los usuarios?
+    Roles de la región en vivo.
+
+
+
+    Sección 3
+What Are the Roles of the aria-label and aria-labelledby Attributes?
+Leyendo conceptos
+
+
+                    Preguntas
+
+¿Qué significa ARIA?
+    Aplicaciones de Internet enriquecidas y accesibles.
+
+¿Qué hacen ambos aria-label y aria-labelledby ¿hacer?
+    Proporcionan etiquetas para los elementos para mejorar la accesibilidad de los lectores de pantalla.
+
+¿Cuándo debes usarlo aria-labelledby sobre aria-label?
+    Cuando existe texto visible en la página que puede usarse como etiqueta.
+
+
+
+    Sección 4
+What Is the aria-hidden Attribute, and How Does It Work?
+Leyendo conceptos
+
+
+                    Preguntas
+
+¿Cuál es el propósito principal del aria-hidden ¿atributo?
+    Ocultar elementos de las tecnologías de asistencia.
+
+¿Cuándo debería aria-hidden ¿Se utilizará el atributo?
+    Para elementos decorativos que no contribuyen al contenido principal.
+
+¿Cuáles son los riesgos potenciales de un uso excesivo del aria-hidden ¿atributo?
+    Accesibilidad obstaculizada para usuarios con discapacidad.
+
+
+
+
+
+    Sección 5
+What Is the aria-describedby Attribute, and How Does It Work?
+Leyendo conceptos
+
+
+                    Preguntas
+
+¿Cuál es el propósito del aria-describedby ¿atributo en HTML?
+    Proporcionar información adicional sobre un elemento de las tecnologías de asistencia.
+
+En los ejemplos proporcionados, ¿cómo funciona el aria-describedby ¿El atributo mejora la experiencia del usuario para los campos del formulario?
+    Asocia texto descriptivo adicional con campos de formulario para proporcionar más contexto o instrucciones.
+
+Cuál de las siguientes es la forma correcta de utilizar el aria-describedby ¿atributo dentro de un formulario?
+    <form>
+        <label for="password">Password:</label>
+        <input type="password" id="password" aria-describedby="password-help" />
+        <p id="password-help">Your password must be at least 8 characters long.</p>
+    </form>
+
+
