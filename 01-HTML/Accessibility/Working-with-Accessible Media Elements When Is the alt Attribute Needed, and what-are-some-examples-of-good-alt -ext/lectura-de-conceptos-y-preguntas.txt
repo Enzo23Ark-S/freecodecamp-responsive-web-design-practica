@@ -1,0 +1,73 @@
+When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text?
+--Lectura de conceptos
+
+                                Preguntas
+                    
+¿Cuál es el propósito del texto alternativo en una imagen?
+    Describir la imagen para personas con discapacidad visual.
+
+¿Cuándo es apropiado dejar el texto alternativo vacío para una imagen?
+    Cuando la imagen es puramente decorativa.
+
+¿Cuál debería ser el enfoque principal del texto alternativo para una imagen que actúa como enlace?
+    Indicando el destino del enlace.
+
+
+
+
+    Sección 2
+    What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?
+Leyendo conceptos
+
+
+                                Preguntas
+
+¿Por qué es esencial un texto de enlace claro y descriptivo para quienes utilizan lectores de pantalla?
+    Ayuda a los usuarios a comprender el propósito del enlace al navegar con un lector de pantalla.
+
+¿Cuál es el primer beneficio visible de un buen texto de enlace?
+    Ayuda a los usuarios a saber hacia dónde se dirigen y a qué accederán.
+
+¿Cuál de las siguientes es una mejor práctica para escribir textos de enlace?
+    Haga que los enlaces sean visualmente distintos con subrayados y otras señales visuales.
+
+
+
+
+
+
+    Sección 3
+    What Are Good Ways to Make Audio and Video Content Accessible?
+Leyendo conceptos
+
+
+                                Preguntas
+
+¿En qué se diferencian los subtítulos de los subtítulos en el contenido de vídeo?
+    Los caption incluyen palabras habladas y sonidos no verbales, mientras que los subtittle son para espectadores que no entienden el idioma.
+
+¿Cómo puedes agregar subtítulos directamente a tu contenido de video o audio en HTML?
+    Al utilizar el track etiqueta dentro de la video o audio elemento.
+
+¿Por qué son importantes las transcripciones para el contenido de audio y vídeo?
+    Las transcripciones ayudan a que el contenido sea accesible para personas sordas o con problemas de audición y permiten una fácil búsqueda de contenido específico.
+
+
+
+
+    Sección 4
+    What Are Some Ways to Make Web Applications Keyboard Accessible?
+Leyendo conceptos
+
+
+                                Preguntas
+
+¿Por qué es el tabindex ¿Propiedad importante al administrar la navegación con teclado en una página web?
+    Le permite controlar el orden en que se enfocan los elementos cuando utiliza la tecla de pestaña.
+
+¿cómo lo hace el accesskey ¿El atributo contribuye a la accesibilidad del teclado en una página web?
+    Le permite definir una clave específica que se centra o activa un elemento en particular.
+
+¿Por qué exactamente es importante evitar las trampas del teclado en las aplicaciones web?
+    Garantiza que los usuarios puedan desviar la atención de elementos como modales y ventanas emergentes.
+
