@@ -1,0 +1,90 @@
+What Are the Basic Parts of a Computer?
+
+--Lectura de conceptos
+
+                                Preguntas
+
+¿Qué es la RAM?
+    Memoria a corto plazo.
+
+¿Qué significa CPU?
+    Unidad Central de Procesamiento.
+
+¿De qué es responsable la tarjeta de red?
+    Conectar la computadora a Internet.
+
+
+
+
+
+Sección 2
+    How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál es uno de los riesgos de agarrar el ratón con demasiada fuerza?
+    Puede causar problemas en las manos y las muñecas.
+
+¿Cuál es el beneficio de utilizar un teclado y un ratón ergonómicos?
+    Reducen la tensión de la muñeca manteniendo las manos en una posición más natural.
+
+¿Cuál es la recomendación para la altura de tu mouse en relación a tu teclado?
+    El ratón debe estar a la misma altura que el teclado.
+
+
+    Sección 3
+    What Are the Different Types of Internet Service Providers?
+Leyendo conceptos
+
+
+                            Preguntas
+
+¿Cuál de los siguientes NO es un nivel de proveedor de servicios de Internet (ISP)?
+    Organizaciones internacionales que supervisan el acceso global a Internet.
+
+¿Qué tipo de conexión a Internet utiliza fibras de vidrio o plástico para transmitir datos mediante luz?
+    Conexión de fibra óptica.
+
+¿Cuál es una característica de las conexiones a Internet por acceso telefónico?
+    Requieren el uso exclusivo de la línea telefónica cuando están conectados.
+
+
+
+
+
+
+Sección 4
+    What Are Safe Ways to Sign Into Your Computer?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál de las siguientes se considera una contraseña insegura?
+    12345
+
+¿Por qué es importante la autenticación de dos factores (2FA)?
+    Garantiza que la persona que intenta acceder a la cuenta sea el usuario autorizado.
+
+¿Para qué se utilizan funciones como Touch ID y Windows Hello?
+    Para iniciar sesión en su computadora utilizando su huella digital o reconocimiento facial.
+
+
+
+
+
+Sección 5
+    What Are the Different Types of Tools Professional Developers Use?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Por qué los desarrolladores optan por computadoras con potencia de procesamiento rápida?
+    Para manejar tareas que requieren muchos recursos.
+
+¿Qué proporciona finalización de código, depuración y terminal integrado para los desarrolladores?
+    Editores de código e IDE.
+
+¿Qué herramientas ayudan a los desarrolladores a probar su código para garantizar que funcione según lo previsto?
+    Marcos de prueba.
+
