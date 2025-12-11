@@ -1,0 +1,59 @@
+    What Are Some of the Common Web Browsers Available Today and How Do You Install One?
+--Lectura de conceptos
+
+                                
+                                Preguntas
+
+¿Cuál de los siguientes NO es uno de los navegadores web más populares en 2024?
+    Internet Explorer
+
+¿Cuál es el navegador web predeterminado que normalmente viene preinstalado en macOS?
+    Safari
+
+¿Cuál de los siguientes es un método para instalar un navegador web en una computadora?
+    Utilizando el administrador de paquetes del sistema operativo.
+    Descargar directamente desde el sitio web del navegador.
+
+
+
+
+
+Sección 2
+    What Is the Difference Between a Web Browser, a Website, and a Search Engine?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál es la función principal de un navegador web?
+    Para acceder y navegar por la World Wide Web.
+
+¿Cuál de los siguientes NO es un componente de un sitio web?
+    Motor de renderizado.
+
+¿Cuál es el propósito principal del rastreador web de un motor de búsqueda?
+    Explorar e indexar sistemáticamente contenidos web.
+
+
+
+
+
+
+
+
+
+    Sección 3
+    How to Use a Search Engine Effectively to Achieve Optimal Results
+Leyendo conceptos
+
+
+                            Preguntas
+
+¿Cuál es el propósito de utilizar comillas alrededor de una consulta de búsqueda?
+    Para buscar una frase exacta.
+
+¿Qué símbolo se utiliza para excluir un término de los resultados de búsqueda?
+    -
+
+¿qué hace el site: ¿Qué hace el operador en una consulta de búsqueda?
+    Limita la búsqueda a un sitio web o dominio específico.
+
