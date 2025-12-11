@@ -1,0 +1,122 @@
+    How Can You Use File Management Applications on Your Computer?
+--Lectura de conceptos
+
+                                
+                                Preguntas
+
+¿Cuál es la aplicación de administración de archivos predeterminada en una computadora con Windows?
+    Explorador de archivos
+
+¿Cómo puedo fijar una carpeta en el Explorador de archivos en una computadora con Windows?
+    Haga clic derecho en la carpeta y seleccione "Pin para iniciar".
+
+En una Mac, ¿cómo acceder al Finder?
+    Haga clic en el icono del Finder en el Dock.
+
+
+
+
+
+
+
+Sección 2
+    What Are Best Practices for Naming Files for Web Applications?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál de los siguientes es un mal ejemplo para nombrar un archivo HTML?
+    file-1!@.html
+
+¿qué hace el index.html ¿representa el archivo?
+    La página principal de un sitio web.
+
+¿Por qué no se recomiendan caracteres especiales para los nombres de archivos?
+    Hacen que sea difícil entender de qué se trata el archivo.
+
+
+
+
+
+
+    Sección 3
+    What Are Best Practices for File/Folder Organization in Web Applications?
+Leyendo conceptos
+
+
+                            Preguntas
+
+¿Para qué se utiliza el directorio de activos en una aplicación web?
+    Se utiliza para almacenar archivos como imágenes, fuentes y otros recursos.
+
+¿Qué es un README.md ¿archivo comúnmente utilizado en un proyecto?
+    Se utiliza para proporcionar información útil sobre el proyecto.
+
+¿Qué representa el directorio raíz en un sistema de archivos?
+    El punto de partida de todas las rutas de archivos y contiene todos los demás directorios y archivos que contiene.
+
+
+
+
+
+
+
+Sección 4
+    How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?
+
+Leyendo conceptos
+
+                            Preguntas
+
+¿Cuál de estas acciones elimina permanentemente un archivo o carpeta de su computadora?
+    Vaciar la papelera de reciclaje o la basura.
+
+¿Cuál es la principal diferencia entre copiar y mover un archivo?
+    Copiar crea un duplicado del archivo, mientras que mover transfiere el archivo original a una nueva ubicación.
+
+¿Por qué son importantes las carpetas para organizar tu computadora?
+    Las carpetas le ayudan a categorizar y encontrar archivos de manera eficiente.
+
+
+
+
+
+
+
+
+Sección 5
+    How Can You Search for Files and Folders on Your Computer?
+
+Leyendo conceptos
+
+                            Preguntas
+
+Si necesita realizar una búsqueda rápida en su PC con Windows y archivos en la nube, debe comenzar su búsqueda desde:
+    Home
+
+¿Cómo se llama una potente herramienta de búsqueda integrada en macOS que le ayuda a encontrar archivos y carpetas en todo su sistema rápidamente?
+    Spotlight
+
+¿Cómo se llama la barra horizontal, normalmente ubicada en la parte inferior de la pantalla de una computadora con Windows, donde puedes buscar archivos y carpetas?
+    Barra de tareas
+
+
+
+
+
+
+Sección 6
+    What Are Some Common File Types You Will Work With in Web Applications?
+Leyendo conceptos
+
+                            Preguntas
+
+¿Qué formato de archivo es más adecuado para imágenes con bordes nítidos y fondos transparentes?
+    PNG
+
+¿Cuál de estas opciones es un formato de audio conocido por su compresión sin pérdidas?
+    WAV
+
+¿Cuál de estas opciones es un formato de fuente moderno utilizado para fines de desarrollo web?
+    WOFF
+
